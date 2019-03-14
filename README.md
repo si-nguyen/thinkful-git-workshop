@@ -30,3 +30,4 @@ ___
 [Jennifer Lim](https://github.com/emptybones)<br/>
 [Yvan Paquot](https://github.com/percevaus)<br/>
 [Nischal Ravichandran](https://github.com/nischalravichandran)<br/>
+[Si Nguyen](https://github.com/si-nguyen)<br/>
